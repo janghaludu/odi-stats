@@ -6,5 +6,5 @@ ODI Stats
 
 * Scrape ODI Scoreboards
 * Run analyses
-** Evolution of Scoring Rates
-** Analyse Vivian Richards' stats
+	* Evolution of Scoring Rates
+	* Analyse Vivian Richards' stats
