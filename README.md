@@ -7,4 +7,4 @@ ODI Stats
 * Scrape ODI Scoreboards
 * Run analyses
 	* Evolution of Scoring Rates
-	* Analyse Vivian Richards' stats
+	* Normalize Vivian Richards' stats with respect to Epoch Trends
